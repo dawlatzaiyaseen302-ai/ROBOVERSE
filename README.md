@@ -14,7 +14,7 @@ This website is programmed through HTML & CSS that is based on an E-commerce Web
 - GitHub Pages
 
 ## Live Website
-https://github.com/dawlatzaiyaseen302-ai/ROBOVERSE-E-Commerce-website.git 
+https://dawlatzaiyaseen302-ai.github.io/ROBOVERSE/index.html
 
 ## Screenshots
 ![Homepage](Images/homepage.png)

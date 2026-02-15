@@ -11,7 +11,6 @@ This website is programmed through HTML & CSS that is based on an E-commerce Web
 ## Technologies Used
 - HTML5
 - CSS3
-- GitHub Pages
 
 ## Live Website
 https://dawlatzaiyaseen302-ai.github.io/ROBOVERSE/
